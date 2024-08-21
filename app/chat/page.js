@@ -107,7 +107,7 @@ export default function Home() {
               p={1}
             >
               <Box
-                bgcolor={msg.role === 'assistant' ? '#8f4d27' : '#a88c4a'}  // Different shades of brown
+                bgcolor={msg.role === 'assistant' ? '#8f4d27' : '#a0582f'}  // Different shades of brown
                 color="white"
                 borderRadius={16}
                 p={2}
